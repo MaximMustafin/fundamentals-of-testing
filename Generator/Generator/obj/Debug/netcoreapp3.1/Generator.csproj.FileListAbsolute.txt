@@ -1,0 +1,14 @@
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Generator\Generator\bin\Debug\netcoreapp3.1\Generator.exe
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Generator\Generator\bin\Debug\netcoreapp3.1\Generator.deps.json
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Generator\Generator\bin\Debug\netcoreapp3.1\Generator.runtimeconfig.json
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Generator\Generator\bin\Debug\netcoreapp3.1\Generator.runtimeconfig.dev.json
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Generator\Generator\bin\Debug\netcoreapp3.1\Generator.dll
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Generator\Generator\bin\Debug\netcoreapp3.1\Generator.pdb
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Generator\Generator\obj\Debug\netcoreapp3.1\Generator.csproj.AssemblyReference.cache
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Generator\Generator\obj\Debug\netcoreapp3.1\Generator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Generator\Generator\obj\Debug\netcoreapp3.1\Generator.AssemblyInfoInputs.cache
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Generator\Generator\obj\Debug\netcoreapp3.1\Generator.AssemblyInfo.cs
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Generator\Generator\obj\Debug\netcoreapp3.1\Generator.csproj.CoreCompileInputs.cache
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Generator\Generator\obj\Debug\netcoreapp3.1\Generator.dll
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Generator\Generator\obj\Debug\netcoreapp3.1\Generator.pdb
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Generator\Generator\obj\Debug\netcoreapp3.1\Generator.genruntimeconfig.cache

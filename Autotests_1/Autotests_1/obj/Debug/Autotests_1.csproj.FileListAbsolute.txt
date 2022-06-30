@@ -1,0 +1,36 @@
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\Autotests_1.dll
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\Autotests_1.pdb
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\nunit.framework.dll
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\WebDriver.dll
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\WebDriver.Support.dll
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\nunit.framework.xml
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Autotests_1\Autotests_1\obj\Debug\Autotests_1.csproj.AssemblyReference.cache
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Autotests_1\Autotests_1\obj\Debug\Autotests_1.csproj.CoreCompileInputs.cache
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Autotests_1\Autotests_1\obj\Debug\Autotests_1.csproj.CopyComplete
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Autotests_1\Autotests_1\obj\Debug\Autotests_1.dll
+D:\Study\Course 3\Управление качеством разработки (тестирование)\Практика\15 Oct 2021\Autotests_1\Autotests_1\obj\Debug\Autotests_1.pdb
+D:\Study\Course 3\Testing\Practise\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Study\Course 3\Testing\Practise\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Study\Course 3\Testing\Practise\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Study\Course 3\Testing\Practise\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\Autotests_1.dll
+D:\Study\Course 3\Testing\Practise\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\Autotests_1.pdb
+D:\Study\Course 3\Testing\Practise\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Study\Course 3\Testing\Practise\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Study\Course 3\Testing\Practise\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\nunit.framework.dll
+D:\Study\Course 3\Testing\Practise\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\WebDriver.dll
+D:\Study\Course 3\Testing\Practise\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\WebDriver.Support.dll
+D:\Study\Course 3\Testing\Practise\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Study\Course 3\Testing\Practise\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Study\Course 3\Testing\Practise\15 Oct 2021\Autotests_1\Autotests_1\bin\Debug\nunit.framework.xml
+D:\Study\Course 3\Testing\Practise\15 Oct 2021\Autotests_1\Autotests_1\obj\Debug\Autotests_1.csproj.AssemblyReference.cache
+D:\Study\Course 3\Testing\Practise\15 Oct 2021\Autotests_1\Autotests_1\obj\Debug\Autotests_1.csproj.CoreCompileInputs.cache
+D:\Study\Course 3\Testing\Practise\15 Oct 2021\Autotests_1\Autotests_1\obj\Debug\Autotests_1.csproj.CopyComplete
+D:\Study\Course 3\Testing\Practise\15 Oct 2021\Autotests_1\Autotests_1\obj\Debug\Autotests_1.dll
+D:\Study\Course 3\Testing\Practise\15 Oct 2021\Autotests_1\Autotests_1\obj\Debug\Autotests_1.pdb
